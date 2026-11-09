@@ -2,7 +2,7 @@
 
 ## Kom i gang
 
-1. Lag et repo på GitHub som heter `js-intro`, og legg til læreren som collaborator.
+1. Lag et repo på GitHub som heter `js-intro`, og sett repo til public
 2. Pakk ut innholdet i repoet og åpne mappen i VS Code.
 3. Skriv `node --version` i terminalen. Får du et versjonsnummer, er du klar.
 4. Åpne `oppgaveark_introark_hint.md` og start på steg 1. Dette arket vil du også finne informasjon om js og hint til noen oppgaver. 

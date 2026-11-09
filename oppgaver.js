@@ -1,5 +1,5 @@
 // =====================================================
-// Steg 1 – Oppgaver: Grunnleggende JS
+// Steg 1 - Oppgaver: Grunnleggende JS
 // Kjør fila i terminalen:   node steg1-grunnlag.js
 //
 // Under hver oppgave står det hva som skal komme i konsollen.
