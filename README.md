@@ -61,6 +61,21 @@ Mange av dere kjenner Python fra før. Grunntankene er de samme: variabler, `if`
 
 > _Skriv svaret ditt her._
 
+
+--- 
+
+## Kommentere i javascript
+
+Vi bruker // for å legge til en linjekommenar eller for å midlertidig deaktivere en linje. Skal du legge til større tekst anbefales bruk av /* Tekst */, eks: 
+
+
+
+/*
+Tekst
+Tekst
+*/
+
+
 ---
 ## Node.js
 
